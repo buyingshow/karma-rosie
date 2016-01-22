@@ -12,8 +12,8 @@
   "contributors": [],
   "dependencies": {},
   "peerDependencies": {
-    "karma": "^0.12.1",
-    "rosie": "^1.2.0"
+    "karma": "^0.13.0",
+    "rosie": "^1.3.0"
   },
   "repository": {
     "type": "git",
